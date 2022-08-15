@@ -46,7 +46,7 @@ Realizar un fork o clon del proyecto, importar al IDE de preferencia, para ejecu
 * [Spring Web]()
 * [Spring Boot]()
 * [Hibernate]()
-* [jdbcTemplate]()
+* [crudRepository]()
 * [Oracle Database]()
 * [H2 Database]()
 * [MySQL Database]()
